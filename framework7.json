@@ -1,0 +1,19 @@
+{
+  "cwd": "/media/exthdd/home/julian/Projects/JS/f7",
+  "type": [
+    "pwa"
+  ],
+  "name": "MSA",
+  "framework": "react",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
